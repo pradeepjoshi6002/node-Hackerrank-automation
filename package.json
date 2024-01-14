@@ -1,0 +1,20 @@
+{
+  "name": "11hackerrankcodesubmisson",
+  "version": "1.0.0",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepjoshi6002/node-Hackerrank-automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pradeepjoshi6002/node-Hackerrank-automation/issues"
+  },
+  "homepage": "https://github.com/pradeepjoshi6002/node-Hackerrank-automation#readme",
+  "description": ""
+}
