@@ -1,7 +1,11 @@
 import puppeteer from "puppeteer";
 let page;
 puppeteer
-  .launch({ headless: false })
+  .launch({
+    headless: false,
+    args: ["--start-maximized"],
+    defaultViewport: null,
+  })
   .then((browser) => {
     const pagesArrPomise = browser.pages();
     return pagesArrPomise;
